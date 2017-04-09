@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1473278319 source:c:\users\ollyd\desktop\code\cpp\program2\main.cpp
+	<iostream>
+	"appUser.h"
+
+1473409244 c:\users\ollyd\desktop\code\cpp\program2\include\appuser.h
+
+1473278285 source:c:\users\ollyd\desktop\code\cpp\program2\src\appuser.cpp
+	"appUser.h"
+
+1474108773 source:c:\users\ollyd\desktop\code\cpp\program1\main.cpp
+	<iostream>
+	"appUser.h"
+
+1474108722 c:\users\ollyd\desktop\code\cpp\program1\include\appuser.h
+	<iostream>
+
+1474108727 source:c:\users\ollyd\desktop\code\cpp\program1\src\appuser.cpp
+	"appUser.h"
+	<iostream>
+
